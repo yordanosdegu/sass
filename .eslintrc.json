@@ -1,4 +1,4 @@
 {
   "extends": "./node_modules/gts/",
-  "ignorePatterns": ["/docs/**"]
+  "ignorePatterns": ["/docs/**"] enem alehu
 }
